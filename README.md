@@ -1,2 +1,3 @@
 # David Abaya C21326401
- 
+Hi,
+ I've always thought you can use int only for numbers. Well took a risk and it worked. Knowing that my code was useless I had to restart. I know the names have something to do with strings and print but I think I hit my limit on this one. If I had more time then I'll try the names. The things on this GitHub are half of the work because I tend to always have a spare sketch where I do my rough work to keep things clean. Sorry if the update is too long the sudden change might need an explanation so there. Also, it didn't help that I was trying to replicate an asteroid code that I made in the past to make it random. All you really need was int, random, and a lot of try and error on the objects.
