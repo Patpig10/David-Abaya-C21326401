@@ -6,11 +6,15 @@ class Body
 
 void genbody()
 {
-  stroke(255);
+   color c = color(random(0, 255), random(0, 255), random(0, 255));
+  stroke(c);
   noFill();
   for(int i = 0 ; i < numsbody; i ++)
   {
-    circle (bx[i], by[i],100); // spawner
+     bx[i] = int(random(250,250));
+     by[i] = int(random(100,250));
+    circle (bx[i], by[i],100); 
+   
   
     }
     
